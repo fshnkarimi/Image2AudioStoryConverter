@@ -1,0 +1,23 @@
+# Ignore virtual environment files
+venv/
+env/
+
+# Ignore compiled Python files
+__pycache__/
+
+# Ignore local development files
+*.sqlite
+*.pyc
+*.pyo
+*.db
+
+# Ignore Streamlit cache and logs
+.streamlit/
+*.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore system-specific files
+.DS_Store
