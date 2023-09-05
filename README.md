@@ -2,7 +2,7 @@
 
 Convert images into captivating audio stories using a combination of image-to-text, language models, and text-to-speech technologies.
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](streamlit_project.png)
 
 ## Introduction
 This project allows you to turn images into audio stories. It employs image-to-text conversion, language models, and text-to-speech synthesis to create an engaging experience. Extract text from uploaded images, generate short stories based on the extracted text, and listen to the generated stories as audio clips.
